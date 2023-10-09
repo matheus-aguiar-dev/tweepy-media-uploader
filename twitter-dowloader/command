@@ -1,0 +1,1 @@
+./twmd -u "user" -o script -a -s small -n 3000                                              
